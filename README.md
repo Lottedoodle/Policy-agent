@@ -9,7 +9,7 @@
 
 > AI-powered assistant for answering questions about **regulations, policies, and compliance** — built on **Amazon Bedrock** with RAG (Retrieval-Augmented Generation) and conversational memory.
 
-RegCom Assistant is an intelligent chatbot that retrieves and summarizes information from an organization's regulatory and compliance knowledge base. It leverages Amazon Bedrock's foundation models combined with a vector-based Knowledge Base to deliver accurate, context-aware answers in natural Thai language.
+RegCom Assistant is an intelligent chatbot that retrieves and summarizes information from an organization's regulatory and compliance knowledge base. So this AI agent provide high security and data privacy. It leverages Amazon Bedrock's foundation models combined with a vector-based Knowledge Base to deliver accurate, context-aware answers in natural Thai language.
 
 ---
 
