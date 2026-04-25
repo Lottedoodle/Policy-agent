@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-# 📘 RegCom Assistant — Policy & Compliance Agent
+# 📘 Policy & Compliance Agent - AI is deployed on a secure cloud infrastructure, ensuring high-level data privacy and encryption. 
 
 > AI-powered assistant for answering questions about **regulations, policies, and compliance** — built on **Amazon Bedrock** with RAG (Retrieval-Augmented Generation) and conversational memory.
 
